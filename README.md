@@ -39,7 +39,9 @@ Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el últi
 
 ### Fuente de datos
 
-[Buenos Aires Data]([URL_del_enlace](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)) : deberán utilizar el dataset denominado Homicidios
+[Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) : deberán utilizar el dataset denominado Homicidios
 
-[Buenos Aires Data]([URL_del_enlace](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)): pueden usar el dataset de Lesiones
+[Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): pueden usar el dataset de Lesiones
+
+
 ¡Espero que disfruten explorando mi proyecto tanto como yo disfruté trabajando en él! 😄
